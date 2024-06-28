@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-teal{
+    background: #f1fbff;
+}
+.bg-bored{
+    background-color: #005a87;
+}
+.w-10{
+    width: 25px;
+}
+.w-8{
+    width: 24px;
+}
